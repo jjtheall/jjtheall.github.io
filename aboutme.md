@@ -6,7 +6,7 @@
 
 
 ## Who am I?
-I am a computer science and mathematics undergraduate student studying Quinnipiac University. I am an incredibly
+I am a computer science and mathematics undergraduate student studying at Quinnipiac University. I am an incredibly
 driven person and I dedicated to learning as much as I can about computing so
 that I can achieve a level of professionalism in this field that will allow
 me to improve people's lives worldwide. I am expected to graduate with a Bachelor of Science in May 2023.
@@ -43,21 +43,26 @@ My current GPA is 3.95
 - Linear Algebra
 - Mathematical Modeling
 
+<br />
+
 #### Skills
 ##### Application Programming
 - Java
 - Python
 - XML
 - Proficient in Swift
+<br />
 ##### Collaboration
 - Scrum Master experience
 - Team Leadership
 - Program Management
 - Agile Development
 - Git & GitHub Version Control
+<br />
 ##### Language
 - English
 - Proficient in French
+<br />
 
 ## Non-Academic Interests
 - Video editing
@@ -66,6 +71,7 @@ My current GPA is 3.95
 - Traveling
 - Close-up sleight of hand magic
 - Any beach-related activity
+<br />
 
 #### Obligatory Pet Section
 This is my bengal cat named Barley. She'll either give you love & cuddles, or claws & teeth depending on her mood. No in-between.

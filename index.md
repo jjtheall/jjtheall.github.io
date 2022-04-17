@@ -1,4 +1,9 @@
 [About Me](./aboutme.md)
+
+[Projects](./projects.md)
+
+![name_logo](./assets/images/name-logo.png)
+
 # Home
 
 Hello and welcome to my website! Enjoy your stay!

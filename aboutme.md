@@ -51,17 +51,22 @@ My current GPA is 3.95
 - Python
 - XML
 - Proficient in Swift
+
 <br />
+
 ##### Collaboration
 - Scrum Master experience
 - Team Leadership
 - Program Management
 - Agile Development
 - Git & GitHub Version Control
+
 <br />
+
 ##### Language
 - English
 - Proficient in French
+
 <br />
 
 ## Non-Academic Interests
@@ -71,6 +76,7 @@ My current GPA is 3.95
 - Traveling
 - Close-up sleight of hand magic
 - Any beach-related activity
+
 <br />
 
 #### Obligatory Pet Section

@@ -40,6 +40,8 @@ GitHub repo [link here](https://github.com/jjtheall/Blackjack)
 
 ![dash](./assets/images/omnipod-dash.png)
 
+<br>
+
 For my semester-long project for my Open-Source Development class, I designed and programmed software that
 acts as a simple emulation of Insulet's OmniPod Diabetic Management System. I utilized the JavaFX GUI library to build
 the screens and logic that make up the application. Additionally, I made use of JSON reading/writing to implement a simple version

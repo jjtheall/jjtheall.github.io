@@ -1,7 +1,9 @@
+[About Me](./aboutme.md)
 # Home
 
 Hello and welcome to my website! Enjoy your stay!
 
-###What is this?
+### What is this?
+
 This personal site details who I am, offers a glimpse of my academic career so far, and lays out some projects that I enjoyed working
 on and would like to put on display.

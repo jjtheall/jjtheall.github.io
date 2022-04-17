@@ -1,4 +1,6 @@
 [Home](./)
+
+[Projects](./projects.md)
 # About Me
 ![Headshot](./assets/images/Theall_Headshot.jpg)
 ### John "Jack" Theall

@@ -12,6 +12,8 @@ check them out for yourself.
 
 ![cat](./assets/images/cat-platformer-game.png)
 
+<br>
+
 As part of a semester-long project, I collaborated with a small team of other students
 in a series of Scrum sprints to develop, enhance, and maintain a platformer game that
 was given to us as a very basic starter library written in Java. I acted as Scrum master in all cycles, which in addition to writing project code
@@ -24,6 +26,8 @@ GitHub repo [link here](https://github.com/mmills2/SER-225-Platformer-Game)
 ## Blackjack
 
 ![blackjack](./assets/images/blackjack.png)
+
+<br>
 
 For my final project for my Data Structures & Abstraction class, I designed and
 programmed a complete Blackjack game that allows you to play against a simulated dealer.

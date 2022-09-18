@@ -28,6 +28,8 @@ the artificial pancreas, effectively providing a technological solution to the d
 
 ## Current Experience
 
+<br>
+
 #### Infosys Limited
 
 Over the course of the Summer '22, I worked as a software development intern in the InStep Infosys program.
@@ -45,6 +47,8 @@ and APIs for frontend-backend communication.
 I utilized Java Spring Boot to provide me with a backend framework. I also designed entity relations using Postgres and leveraged PostgreSQL and pgAdmin to manage database systems. Finally,
 I familiarized myself with the Angular framework to the point of proficiency so that I was able to assist my team in the integration between frontend and backend, and ensure that
 API endpoints were hit and results were utilized as intended. 
+
+<br />
 
 #### Relevant Coursework
 

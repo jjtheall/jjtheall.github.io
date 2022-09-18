@@ -28,7 +28,23 @@ the artificial pancreas, effectively providing a technological solution to the d
 
 ## Current Experience
 
-I have accepted an offer and plan to work an internship at Infosys as part of a software development team for the Summer '22.
+#### Infosys Limited
+
+Over the course of the Summer '22, I worked as a software development intern in the InStep Infosys program.
+During the program I collaborated with a team of technical mentors, junior software developers, and other InStep interns
+to develop a standalone web application designed to accept post-interview feedback from panelists who have interviewed hiring candidates.
+Development cycles over the course of the program adhered to agile methodologies. Our standalone app was then integrated into a larger delivery ops web application containing more administrative functionality.
+
+##### Responsibilities
+
+My primary responsibility during the program was to design and build backend entities, repositories, service interfaces & implementations complete with business logic,
+and APIs for frontend-backend communication. 
+
+##### Tools Used
+
+I utilized Java Spring Boot to provide me with a backend framework. I also designed entity relations using Postgres and leveraged PostgreSQL and pgAdmin to manage database systems. Finally,
+I familiarized myself with the Angular framework to the point of proficiency so that I was able to assist my team in the integration between frontend and backend, and ensure that
+API endpoints were hit and results were utilized as intended. 
 
 #### Relevant Coursework
 
@@ -45,6 +61,8 @@ My current GPA is 3.95
 - Intro to iOS Development
 - Theory of Computation
 - Networking and Distributed Processing
+- Database Systems
+- Embedded Systems & IOT
 - Cryptography
 - Calculus I
 - Calculus II
@@ -60,6 +78,7 @@ My current GPA is 3.95
 
 - Java
 - Python
+- SQL
 - XML
 - Proficient in Swift
 
@@ -84,12 +103,13 @@ My current GPA is 3.95
 
 ## Non-Academic Interests
 
+- Skiing
 - Video editing
 - Hiking
 - Fishing
 - Traveling
-- Close-up sleight of hand magic
 - Any beach-related activity
+- Improvisational Comedy
 
 <br />
 

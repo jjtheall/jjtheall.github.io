@@ -8,6 +8,31 @@ This section is dedicated to relevant projects that I have worked on over the co
 of my academic career. Links to the GitHub repositories for each project will be included so you can
 check them out for yourself.
 
+## Thirst Mate
+
+![thirstmatehome](./assets/images/thirstmatehome.png)
+![thirstmatedrink](./assets/images/thirstmatedrink.png)
+![thirstmateshopping](./assets/images/thirstmateshopping.png)
+
+<br>
+
+For my final project for my Android Development class, I collaborated with a partner to design
+and develop a fully functional cocktail assistant Android application we titled *Thirst Mate*. 
+Nautrally, the app is pirate themed and aims to assist users in planning, shopping for, and creating
+any cocktails they would like to make. *Thirst Mate* is designed for users of all experience levels, so whether you're
+a mixed drink novice or master level mixologist, this app is for you. *Thirst Mate*'s hallmark feature, the shopping list,
+allows users to add specific quantities of drinks to their list which will dynamically update with
+ingredients and quantities to make shopping as streamlined and efficient as possible. Finally, *Thirst Mate* also
+allows users to enter their own drink recipes, which will be persisted in the app's drinks list.
+
+<br />
+
+<br>
+
+GitHub repo [link here](https://github.com/jjtheall/ThirstMate)
+
+<br/>
+
 ## Cat Platformer Game
 
 ![cat](./assets/images/cat-platformer-game.png)
@@ -21,7 +46,11 @@ included responsibilities such as creation and oversight of several reports deta
 
 <br />
 
+<br>
+
 GitHub repo [link here](https://github.com/mmills2/SER-225-Platformer-Game) 
+
+<br />
 
 ## Blackjack
 
@@ -38,7 +67,11 @@ the Deck, and a Hand of cards for back-end use in the game.
 
 <br />
 
+<br>
+
 GitHub repo [link here](https://github.com/jjtheall/Blackjack)
+
+<br/>
 
 ## Simple OmniPod Dash Emulator
 
@@ -56,5 +89,8 @@ between screen objects extremely straightforward as a good starting point.
 
 <br />
 
+<br>
+
 GitHub repo [link here](https://github.com/jjtheall/DashV1-1)
 
+<br />

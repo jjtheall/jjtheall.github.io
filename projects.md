@@ -10,7 +10,7 @@ check them out for yourself.
 
 ## Thirst Mate
 
-Home | Drinks List | Shopping List
+Home | Drink View | Shopping List
 ---- | ----- | --------
 ![thirstmatehome](./assets/images/thirstmatehome.png) | ![thirstmatedrink](./assets/images/thirstmatedrink.png) |  ![thirstmateshopping](./assets/images/thirstmateshopping.png)
 

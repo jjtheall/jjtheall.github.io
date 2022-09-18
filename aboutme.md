@@ -26,9 +26,9 @@ has been eye-opening to the seemingly limitless power of improving technology. I
 once I have become a computing professional, I will have the knowledge and expertise required to perfect the software behind
 the artificial pancreas, effectively providing a technological solution to the disease.
 
-## Current Experience
-
 <br>
+
+## Current Experience
 
 #### Infosys Limited
 

@@ -32,7 +32,7 @@ the artificial pancreas, effectively providing a technological solution to the d
 
 #### Infosys Limited
 
-Over the course of the Summer '22, I worked as a software development intern in the InStep Infosys program.
+Over the course of the Summer '22, I worked as a software development intern in the Infosys InStep program.
 During the program I collaborated with a team of technical mentors, junior software developers, and other InStep interns
 to develop a standalone web application designed to accept post-interview feedback from panelists who have interviewed hiring candidates.
 Development cycles over the course of the program adhered to agile methodologies. Our standalone app was then integrated into a larger delivery ops web application containing more administrative functionality.

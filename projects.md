@@ -12,7 +12,7 @@ check them out for yourself.
 
 Home | Drink View | Shopping List
 ---- | ----- | --------
-<img src="./assets/images/thirstmatehome.png" alt="thirstmatehome" width="658"> | <img src="./assets/images/thirstmatedrink.png" alt="thirstmatedrink" width="658"> |  <img src="./assets/images/thirstmateshopping.png" alt="thirstmateshopping" width="658">
+<img src="./assets/images/thirstmatehome.png" alt="thirstmatehome" width="658" height="1414"> | <img src="./assets/images/thirstmatedrink.png" alt="thirstmatedrink" width="658" height="1414"> |  <img src="./assets/images/thirstmateshopping.png" alt="thirstmateshopping" width="658" height="1414">
 
 For my final project for my Android Development class, I collaborated with a partner to design
 and develop a fully functional cocktail assistant Android application we titled *Thirst Mate*. 

@@ -49,5 +49,5 @@ with family, relaxation, and good times. If it's a beach-related activity, I'm t
 #### Obligatory Pet Section
 
 This is my bengal cat named Barley. She'll either give you love & cuddles, or claws & teeth depending on her mood. No in-between.
-![Barley](./assets/images/barley2.JPG)
+![Barley](./assets/images/barley2.jpg)
 
